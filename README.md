@@ -1,6 +1,6 @@
 ## 📝 Single Page CV (HTML)
 This is a simple, single-page CV website built using pure HTML to display your resume cleanly in any browser.
-Project URL: file:///C:/Users/saikr/source/repos/Single-Page%20CV/Single-Page%20CV.html
+Project URL: https://github.com/DeusOffl/Single-Page-HTML-CV
 
 ## 📄 What it does
 * Shows your CV on a single HTML page
