@@ -8,7 +8,7 @@ This is a simple, single-page CV website built using pure HTML to display your r
 
 ## 🚀 How to run
 * Clone or download this repository:
-git clone https://github.com/yourusername/single-page-cv.git
+git clone https://github.com/DeusOffl/Single-Page-HTML-CV.git
 * Open the folder in Visual Studio or VS Code.
 * Open Single-Page CV.html.
 * Right-click and select "Open in Browser" to view your CV.
