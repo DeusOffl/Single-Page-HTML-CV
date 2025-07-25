@@ -26,6 +26,8 @@ git clone https://github.com/DeusOffl/Single-Page-HTML-CV.git
 ✅ Structuring content for clarity
 
 ## 📸 Preview
+<img width="1745" height="869" alt="image" src="https://github.com/user-attachments/assets/379c5250-a8d9-43bc-9f95-7a79e8c552cb" />
+
 
 ## 📄 License
 This project is open for learning and personal use. Feel free to modify and use it to showcase your own CV online.
