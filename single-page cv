@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Single-Page CV</title>
+    <link rel="icon" type="image/png" href="Favicon.png" />
+    <style>
+        h1{
+            font-size: 2em;
+        }
+        h2{
+            font-size: 1.5em;
+        }
+    h3 {
+        font-size: 1.5em;
+    }
+    p,li{
+        font-size: 1em;
+    }
+    </style> 
+</head>
+<body>
+    <hr style="height:3px; background-color: black; border: none; width: 75%;">
+    <h1>Sai Krishna Budumuru</h1>
+    <h2 style="color:green" ;>Junior Front End Developer</h2>
+    <p>123 Your Street,</p>
+    <p>Your city,ST 12345,</p>
+    <p>(123) 456-7890,</p>
+    <p>no_reply@example.com</p>
+    <h2 style="color:green" ;>Skills</h2>
+    <p>HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design, Technical Writing, Presentation.</p>
+    <h2 style="color:green" ;>Education</h2>
+    <h3 style="color:blue" ;>College LaSalle, Montreal- Game and Level Design</h3>
+    <p>May 2022 to September 2023</p>
+    <p>Designed engaging game systems and levels that keep players excited and immersed.</p>
+    <h2 style="color:green" ;>Experience</h2>
+    <h3 style="color:blue" ;>Alorica, Montreal-Tech Support Specialist</h3>
+    <ul>
+        <li>Resolved 95% of customer technical issues on first contact, boosting customer satisfaction scores.</li>
+        <li>Assisted in reducing average call handling time by 20% through efficient troubleshooting.</li>
+        <li>Recognized for maintaining top QA scores consistently while handling high-volume support queues.</li>
+    </ul>
+    <p>Skills: Developed strong troubleshooting, customer interaction, and problem-solving skills in fast-paced tech support environments.</p>
+    <h3 style="color:blue" ;>Retail Dep Dynamix, Montreal-Manager</h3>
+    <ul>
+        <li>Provided friendly, efficient customer service, building strong customer loyalty.</li>
+        <li>Managed inventory and daily cash handlingwith accuracy and accountability.</li>
+        <li>Assisted in visual merchandising and store organization to boost sales.</li>
+    </ul>
+    <p>Skills: Gained customer service, cash handling, and inventory management skills in a fast-paced retail environment.</p>
+    <h2 style="color:green" ;> Across the internet</h2>
+    <ul>
+        <li>
+            <a href="https://www.linkedin.com/in/sai-krishna-budumuru-b9530a254" target="_blank" rel="noopener">
+                LinkedIn Profile
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/DeusOffl" target="_blank" rel="noopener">
+                GitHub Profile
+            </a>
+        </li>
+    </ul>
+</body>
+</html>
